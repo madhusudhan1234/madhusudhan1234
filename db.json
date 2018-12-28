@@ -1,0 +1,16 @@
+{
+  "data": [
+    {
+      "id": "1",
+      "name": "Tshirt",
+      "price": "50",
+      "currency": "USD"
+    },
+    {
+      "id": "2",
+      "name": "Monitor",
+      "price": "100",
+      "currency": "USD"
+    }
+  ]
+}
