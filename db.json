@@ -1,5 +1,5 @@
 {
-  "data": [
+  "products": [
     {
       "id": "1",
       "name": "Tshirt",
@@ -11,6 +11,18 @@
       "name": "Monitor",
       "price": "100",
       "currency": "USD"
+    }
+  ],
+  "payment_methods": [
+    {
+      "id": "1",
+      "type": "cash",
+      "name": "Cash on Delivery"
+    },
+    {
+      "id": "2",
+      "type": "stripe",
+      "name": "Stripe Payment Gateway"
     }
   ]
 }
