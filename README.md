@@ -1,6 +1,6 @@
 <div align="center">
   
-# 🚀 Hello Everybody, I'm Madhu Sudhan Subedi!
+# Hey, I'm Madhu Sudhan Subedi! ✨
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A177FFFF&center=true&vCenter=true&width=940&lines=Backend+Software+Engineer+%F0%9F%92%BB;Building+Scalable+Systems+%E2%9A%A1;Learning+AWS+%26+Go+%F0%9F%93%88;Welcome+to+my+GitHub!+%F0%9F%91%8B" alt="Typing SVG" />
 
@@ -82,12 +82,3 @@
 
 </div>
 
----
-
-<div align="center">
-
-**⭐️ From [Madhu Sudhan Subedi](https://github.com/madhusudhan1234)**
-
-*"Code is like humor. When you have to explain it, it's bad." – Cory House*
-
-</div>
